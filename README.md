@@ -11,3 +11,7 @@ The Concept of the App is to allow you build your engineering team
 <img width="461" alt="finder2" src="https://user-images.githubusercontent.com/4637483/173209145-32193dd7-f597-4c60-8831-c145b6dfb334.png">
 
 ### To Run This APP
+
+1. Simply clone or download this repo
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to get the app up and running
