@@ -1,0 +1,49 @@
+.form {
+    width: 500px;
+    border: 2px solid #3498db;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.form label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.form input {
+    float: left;
+    border-radius: 4px;
+    border: 1px solid #3498db;
+    display: block;
+    width: 470px;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.form input:focus{
+    border: #3498db;
+    width: 470px;
+    outline: 1px solid #3498db;
+}
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 470px;
+}
+
+.btn button{
+    cursor: pointer;
+    background-color: #3498db;
+    border: 2px solid #3498db;
+    border-radius: 4px;
+    color: #fff;
+    display: flex;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+}
