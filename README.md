@@ -14,4 +14,4 @@ The Concept of the App is to allow you build your engineering team
 
 1. Simply clone or download this repo
 2. Run `npm install` to install the dependencies
-3. Run `npm start` to get the app up and running
+3. Run `npm start` to get the app up and running....
