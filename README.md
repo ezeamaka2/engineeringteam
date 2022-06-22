@@ -13,6 +13,6 @@ The Concept of the App is to allow you build your engineering team
 ### To Run This APP
 
 1. Simply clone or download this repo
-2. CD into the 
+2. CD into the folder
 3. Run `npm install` to install the dependencies
 4. Run `npm start` to get the app up and running....
