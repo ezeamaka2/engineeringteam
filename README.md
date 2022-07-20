@@ -4,7 +4,7 @@
 #### The is a React Typescript App that allows you to 
 1. Enter the github **account username** and Assign a **Role to the User**
 2. You can add multiple usernames and have them listed out.
-3. You can also remove a specific user from the loaded users.
+3. You can also remove a user from the loaded users.
 
 The Concept of the App is to allow you build your engineering team
 
