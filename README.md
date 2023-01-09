@@ -6,7 +6,7 @@
 2. You can add multiple usernames and have them listed out.
 3. You can also remove a user from the loaded users.
 
-The Concept of the App is to allow you build your engineering team
+The Concept of this App is to allow you build your engineering team
 
 <img width="461" alt="finder2" src="https://user-images.githubusercontent.com/4637483/173209145-32193dd7-f597-4c60-8831-c145b6dfb334.png">
 
