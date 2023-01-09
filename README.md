@@ -1,7 +1,7 @@
 # Build Your Engineering Team
 <img width="457" alt="finder" src="https://user-images.githubusercontent.com/4637483/173209179-49fcd083-d9b2-463a-8078-f7bca76227bc.png">
 
-#### The is a React Typescript App that allows you to 
+#### This is a React Typescript App that allows you to 
 1. Enter the github **account username** and Assign a **Role to the User** to the user
 2. You can add multiple usernames and have them listed out.
 3. You can also remove a user from the loaded users.
